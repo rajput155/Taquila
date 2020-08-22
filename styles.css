@@ -1,0 +1,27 @@
+#taquila {
+  color: white;
+  text-align: center;
+  background-color: #12947f;
+  margin-top: 50px;
+}
+.dog{
+  height: 400px;
+    width: 400px;
+    border-radius: 100%;
+    margin: 20px;}
+img{
+  height: 250px;
+  width: 200px;
+  border-radius: 100%;
+  margin: 70px;
+}
+h2{
+  margin-top: 20px;
+}
+.lastimg{
+  height: 150px;
+  width: 150px;
+}
+body{
+  background-color: #f6f578;
+}
